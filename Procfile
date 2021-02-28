@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath gfxshop gfxshop.wsgi:application
+web: gunicorn gfxshop gfxshop.wsgi:application

@@ -1,1 +1,1 @@
-web: gunicorn gfxshop gfxshop.wsgi:application
+web: gunicorn gfxshop.wsgi:application
